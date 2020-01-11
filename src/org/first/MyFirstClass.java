@@ -6,6 +6,10 @@ public class MyFirstClass {
 		// TODO Auto-generated method stub
 System.out.println("You can do it..Be positive");
 	}
+	private void beActive() {
+		// TODO Auto-generated method stub
+System.out.println("You can do it..Be Active");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
