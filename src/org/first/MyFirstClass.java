@@ -15,6 +15,7 @@ System.out.println("You can do it..Be Active");
 		// TODO Auto-generated method stub
 		MyFirstClass mf = new MyFirstClass();
 		mf.bePositive();
+		mf.beActive();
 	}
 
 }
